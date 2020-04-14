@@ -44,7 +44,7 @@ module.exports = {
       ENV: JSON.stringify(process.env.NODE_ENV || 'development'),
     })
   ],
-  external: external,
+  // external: external,
   output: [
     {
       exports: 'named',
