@@ -1,5 +1,5 @@
 {
-  "name": "zbm1@lru-cache",
+  "name": "@zbm1/lru-cache",
   "description": "A cache object that deletes the least-recently-used items.",
   "version": "5.1.2",
   "author": "Isaac Z. Schlueter <i@izs.me>",
